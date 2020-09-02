@@ -95,7 +95,7 @@ export default function Homepage() {
                     <p className="mt-0 mb-32 ">
                       Our landing page template works on all devices, so you
                       only have to set it up once, and get beautiful results
-                      forever.
+                      foreveras.
                     </p>
                   </Fade>
                 </div>
